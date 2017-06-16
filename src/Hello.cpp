@@ -28,6 +28,18 @@ private:
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+
+	int i;
+
+	cin >> i;
+
+	int b = 1/i;
+
+	while (true) {
+		int foo = 1;
+	}
+
+	volatile int b = 5;
 	return 0;
 }
 
